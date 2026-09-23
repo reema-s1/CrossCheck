@@ -1,0 +1,638 @@
+[
+ {
+  "id": "q01",
+  "type": "normal",
+  "question": "How long is the standard warranty on a new Nimbus device?",
+  "reference": "Every new Nimbus device includes a one-year limited warranty starting on the original date of purchase.",
+  "contexts": [
+   "# Nimbus Limited Warranty Every new Nimbus device (Nimbus Phone X2, Nimbus Watch S, Nimbus Buds Pro, and Nimbus Laptop Air) includes a one-year limited warranty starting on the original date of purchase. The warranty covers manufacturing defects in materials and workmanship, including faulty buttons, dead pixels on the display, and batteries that fail to hold a charge due to a defect. The limited warranty does not cover accidental damage such as cracked screens, liquid damage, cosmetic scratches, or damage caused by third-party accessories. It also does not cover devices that have been opened or repaired by an unauthorized service provider. To make a warranty claim, customers need the device serial number and proof of purchase. Warranty repairs are free of charge. If a device cannot be repaired, Nimbus will replace it with a new or refurbished device of equivalent functionality. Replacement devices are covered for the remainder of the original warranty or 90 days, whichever is longer.",
+   "# NimbusCare+ Protection Plan NimbusCare+ is an optional protection plan that extends coverage to two years from the date of purchase for phones, watches, and earbuds, and to three years for the Nimbus Laptop Air. It must be purchased within 60 days of buying the device. NimbusCare+ adds coverage for up to two incidents of accidental damage every 12 months. Each accidental damage incident is subject to a service fee: $29 for screen-only damage on the Nimbus Phone X2 and $99 for other accidental damage on the phone. For the Nimbus Laptop Air, the service fee is $99 for screen damage and $299 for other damage. NimbusCare+ also includes priority 24/7 phone support and express replacement shipping. NimbusCare+ costs $149 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $29 for Nimbus Buds Pro, and $249 for the Nimbus Laptop Air. NimbusCare+ can be cancelled at any time for a prorated refund. NimbusCare+ does not cover loss or theft.",
+   "# Your Privacy During Repairs Nimbus technicians do not need access to your personal data to perform most repairs. When you send a device for service, you can turn on Repair Mode, which keeps your data encrypted and locked while still allowing the technician to run diagnostics. Repair Mode is available on Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later. If Repair Mode is not available, Nimbus recommends backing up and erasing your device before service. Nimbus never asks for your Nimbus Account password during a repair, and technicians are prohibited from viewing photos, messages, or other personal content. Diagnostic logs collected during service contain hardware information only and are deleted 90 days after the repair is complete. Repair records, including the device serial number and repair description, are kept for 3 years for warranty purposes."
+  ],
+  "answer": "The standard warranty on a new Nimbus device is one year from the original date of purchase.",
+  "samples": [
+   "The standard warranty on a new Nimbus device is one year from the original date of purchase.",
+   "The standard warranty on a new Nimbus device is one year starting from the original date of purchase.",
+   "The standard warranty on a new Nimbus device is one year from the original date of purchase.",
+   "The standard warranty on a new Nimbus device is one year from the original date of purchase.",
+   "The standard warranty on a new Nimbus device is one year from the original date of purchase."
+  ],
+  "selfcheck_score": 0.013437303492615849,
+  "selfcheck_sentences": [
+   [
+    "The standard warranty on a new Nimbus device is one year from the original date of purchase.",
+    0.013437303492615849
+   ]
+  ]
+ },
+ {
+  "id": "q02",
+  "type": "normal",
+  "question": "How much does NimbusCare+ cost for the Nimbus Phone X2?",
+  "reference": "NimbusCare+ costs $149 for the Nimbus Phone X2.",
+  "contexts": [
+   "# NimbusCare+ Protection Plan NimbusCare+ is an optional protection plan that extends coverage to two years from the date of purchase for phones, watches, and earbuds, and to three years for the Nimbus Laptop Air. It must be purchased within 60 days of buying the device. NimbusCare+ adds coverage for up to two incidents of accidental damage every 12 months. Each accidental damage incident is subject to a service fee: $29 for screen-only damage on the Nimbus Phone X2 and $99 for other accidental damage on the phone. For the Nimbus Laptop Air, the service fee is $99 for screen damage and $299 for other damage. NimbusCare+ also includes priority 24/7 phone support and express replacement shipping. NimbusCare+ costs $149 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $29 for Nimbus Buds Pro, and $249 for the Nimbus Laptop Air. NimbusCare+ can be cancelled at any time for a prorated refund. NimbusCare+ does not cover loss or theft.",
+   "# Nimbus Phone X2 Technical Specifications The Nimbus Phone X2 has a 6.3-inch OLED display with a 120 Hz refresh rate and a peak brightness of 2000 nits. It is powered by the Nimbus N3 chip and comes with 8 GB of RAM. Storage options are 128 GB, 256 GB, and 512 GB. The rear camera system includes a 50-megapixel main camera and a 12-megapixel ultra-wide camera. The front camera is 12 megapixels. The phone supports 5G, Wi-Fi 7, and Bluetooth 5.4. The battery capacity is 4,500 mAh. The phone supports 30 W wired fast charging via USB-C, which charges the battery to 50% in about 25 minutes, and 15 W wireless charging. It weighs 187 grams. The Nimbus Phone X2 launched in March 2025 in three colors: Graphite, Glacier, and Sage. It will receive software updates for at least 6 years from launch.",
+   "# Screen Repair If your Nimbus Phone X2 screen is cracked or shows lines, flicker, or touch problems, you can request a screen repair online, at a Nimbus retail store, or through an Authorized Nimbus Service Provider. Without NimbusCare+, an out-of-warranty screen replacement for the Nimbus Phone X2 costs $279. A Nimbus Watch S screen replacement costs $199. A Nimbus Laptop Air display replacement costs $549. With NimbusCare+, the screen-only service fee for the phone is $29. Most in-store phone screen repairs are completed the same day, usually within 3 hours. Mail-in repairs take 5 to 7 business days including shipping. Only genuine Nimbus displays are used. After a screen repair, the True Color calibration is restored automatically the next time the phone connects to Wi-Fi."
+  ],
+  "answer": "NimbusCare+ costs $149 for the Nimbus Phone X2.",
+  "samples": [
+   "NimbusCare+ costs $149 for the Nimbus Phone X2.",
+   "NimbusCare+ costs $149 for the Nimbus Phone X2.",
+   "NimbusCare+ costs $149 for the Nimbus Phone X2.",
+   "NimbusCare+ costs $149 for the Nimbus Phone X2.",
+   "NimbusCare+ costs $149 for the Nimbus Phone X2."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "NimbusCare+ costs $149 for the Nimbus Phone X2.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "q03",
+  "type": "normal",
+  "question": "What is the service fee for a cracked phone screen with NimbusCare+?",
+  "reference": "With NimbusCare+, the screen-only damage service fee for the Nimbus Phone X2 is $29.",
+  "contexts": [
+   "# NimbusCare+ Protection Plan NimbusCare+ is an optional protection plan that extends coverage to two years from the date of purchase for phones, watches, and earbuds, and to three years for the Nimbus Laptop Air. It must be purchased within 60 days of buying the device. NimbusCare+ adds coverage for up to two incidents of accidental damage every 12 months. Each accidental damage incident is subject to a service fee: $29 for screen-only damage on the Nimbus Phone X2 and $99 for other accidental damage on the phone. For the Nimbus Laptop Air, the service fee is $99 for screen damage and $299 for other damage. NimbusCare+ also includes priority 24/7 phone support and express replacement shipping. NimbusCare+ costs $149 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $29 for Nimbus Buds Pro, and $249 for the Nimbus Laptop Air. NimbusCare+ can be cancelled at any time for a prorated refund. NimbusCare+ does not cover loss or theft.",
+   "# Screen Repair If your Nimbus Phone X2 screen is cracked or shows lines, flicker, or touch problems, you can request a screen repair online, at a Nimbus retail store, or through an Authorized Nimbus Service Provider. Without NimbusCare+, an out-of-warranty screen replacement for the Nimbus Phone X2 costs $279. A Nimbus Watch S screen replacement costs $199. A Nimbus Laptop Air display replacement costs $549. With NimbusCare+, the screen-only service fee for the phone is $29. Most in-store phone screen repairs are completed the same day, usually within 3 hours. Mail-in repairs take 5 to 7 business days including shipping. Only genuine Nimbus displays are used. After a screen repair, the True Color calibration is restored automatically the next time the phone connects to Wi-Fi.",
+   "# Nimbus Limited Warranty Every new Nimbus device (Nimbus Phone X2, Nimbus Watch S, Nimbus Buds Pro, and Nimbus Laptop Air) includes a one-year limited warranty starting on the original date of purchase. The warranty covers manufacturing defects in materials and workmanship, including faulty buttons, dead pixels on the display, and batteries that fail to hold a charge due to a defect. The limited warranty does not cover accidental damage such as cracked screens, liquid damage, cosmetic scratches, or damage caused by third-party accessories. It also does not cover devices that have been opened or repaired by an unauthorized service provider. To make a warranty claim, customers need the device serial number and proof of purchase. Warranty repairs are free of charge. If a device cannot be repaired, Nimbus will replace it with a new or refurbished device of equivalent functionality. Replacement devices are covered for the remainder of the original warranty or 90 days, whichever is longer."
+  ],
+  "answer": "The service fee for a cracked phone screen with NimbusCare+ is $29 for the Nimbus Phone X2.",
+  "samples": [
+   "The service fee for a cracked screen on the Nimbus Phone X2 with NimbusCare+ is $29.",
+   "The service fee for a cracked phone screen with NimbusCare+ for the Nimbus Phone X2 is $29.",
+   "The service fee for a cracked screen on the Nimbus Phone X2 with NimbusCare+ is $29.",
+   "The service fee for a cracked phone screen with NimbusCare+ is $29.",
+   "The service fee for a cracked phone screen with NimbusCare+ is $29 for the Nimbus Phone X2."
+  ],
+  "selfcheck_score": 0.09458532450668433,
+  "selfcheck_sentences": [
+   [
+    "The service fee for a cracked phone screen with NimbusCare+ is $29 for the Nimbus Phone X2.",
+    0.09458532450668433
+   ]
+  ]
+ },
+ {
+  "id": "q04",
+  "type": "normal",
+  "question": "How many days do I have to return a product bought from the Nimbus online store?",
+  "reference": "Products can be returned within 14 days of delivery; holiday purchases made between November 1 and December 25 can be returned until January 8.",
+  "contexts": [
+   "# Return Policy Nimbus products bought directly from the Nimbus online store or a Nimbus retail store can be returned within 14 days of delivery for a full refund. The device must be in its original condition, with all included accessories and the original packaging. Opened software, gift cards, and personalized (engraved) products cannot be returned. Earbuds can only be returned if the hygiene seal has not been broken, unless they are defective. Refunds are issued to the original payment method. Card refunds typically take 5 to 10 business days to appear. Return shipping is free for customers in the United States, Canada, and the United Kingdom. Products bought from third-party retailers must be returned to that retailer according to its own policy. Holiday purchases made between November 1 and December 25 can be returned until January 8 of the following year.",
+   "# Nimbus Trade In Nimbus Trade In lets you exchange an eligible device for credit toward a new purchase or for a Nimbus Gift Card. Eligible devices include Nimbus phones, watches, and laptops from the last five years. Nimbus Buds Pro are not eligible for trade-in credit but can be recycled for free. The trade-in value depends on the model, storage, and condition. The device must power on, hold a charge, and have no cracks on the display or back. Devices that do not qualify for credit are recycled for free. For online trade-ins, Nimbus sends a prepaid trade-in kit. You have 14 days to send your device after receiving the kit. If the device's condition does not match your description, Nimbus will send a revised offer, which you can accept or decline; if you decline, the device is returned to you for free. Turn off Find My Nimbus and erase the device before sending it.",
+   "# Shipping and Delivery Standard shipping is free on all orders from the Nimbus online store and usually arrives in 3 to 5 business days. Express shipping costs $12 and arrives in 1 to 2 business days. Same-day courier delivery is available in select cities for $15 on orders placed before noon. Nimbus ships to the United States, Canada, the United Kingdom, Ireland, Australia, and most EU countries. Nimbus does not ship to P.O. boxes for orders over $1,000. A signature is required for all deliveries of phones and laptops. You can track your order on the Order Status page. If a package is marked delivered but you have not received it, wait 24 hours and then contact Nimbus Support. You can also choose free in-store pickup at a Nimbus retail store, usually available within 2 hours."
+  ],
+  "answer": "You have 14 days to return a product bought from the Nimbus online store.",
+  "samples": [
+   "You have 14 days to return a product bought from the Nimbus online store.",
+   "You have 14 days to return a product bought from the Nimbus online store.",
+   "You have 14 days to return a product bought from the Nimbus online store.",
+   "You have 14 days to return a product bought from the Nimbus online store.",
+   "You have 14 days to return a product bought from the Nimbus online store."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "You have 14 days to return a product bought from the Nimbus online store.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "q05",
+  "type": "normal",
+  "question": "How much is an out-of-warranty battery replacement for the Nimbus Phone X2?",
+  "reference": "An out-of-warranty battery replacement for the Nimbus Phone X2 costs $89.",
+  "contexts": [
+   "# Battery Service and Battery Health Nimbus batteries are designed to retain at least 80% of their original capacity after 800 complete charge cycles on the Nimbus Phone X2 and 1000 cycles on the Nimbus Laptop Air. You can check battery health in Settings > Battery > Battery Health. If the maximum capacity drops below 80% while the device is under warranty or NimbusCare+, the battery is replaced for free. Out of warranty, a battery replacement costs $89 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $49 per earbud for Nimbus Buds Pro, and $199 for the Nimbus Laptop Air. To extend battery life, Nimbus recommends enabling Optimized Charging, which pauses charging at 80% and finishes charging shortly before you usually unplug. Avoid keeping devices in temperatures above 35\u00b0C (95\u00b0F).",
+   "# Screen Repair If your Nimbus Phone X2 screen is cracked or shows lines, flicker, or touch problems, you can request a screen repair online, at a Nimbus retail store, or through an Authorized Nimbus Service Provider. Without NimbusCare+, an out-of-warranty screen replacement for the Nimbus Phone X2 costs $279. A Nimbus Watch S screen replacement costs $199. A Nimbus Laptop Air display replacement costs $549. With NimbusCare+, the screen-only service fee for the phone is $29. Most in-store phone screen repairs are completed the same day, usually within 3 hours. Mail-in repairs take 5 to 7 business days including shipping. Only genuine Nimbus displays are used. After a screen repair, the True Color calibration is restored automatically the next time the phone connects to Wi-Fi.",
+   "# Nimbus Phone X2 Technical Specifications The Nimbus Phone X2 has a 6.3-inch OLED display with a 120 Hz refresh rate and a peak brightness of 2000 nits. It is powered by the Nimbus N3 chip and comes with 8 GB of RAM. Storage options are 128 GB, 256 GB, and 512 GB. The rear camera system includes a 50-megapixel main camera and a 12-megapixel ultra-wide camera. The front camera is 12 megapixels. The phone supports 5G, Wi-Fi 7, and Bluetooth 5.4. The battery capacity is 4,500 mAh. The phone supports 30 W wired fast charging via USB-C, which charges the battery to 50% in about 25 minutes, and 15 W wireless charging. It weighs 187 grams. The Nimbus Phone X2 launched in March 2025 in three colors: Graphite, Glacier, and Sage. It will receive software updates for at least 6 years from launch."
+  ],
+  "answer": "An out-of-warranty battery replacement for the Nimbus Phone X2 costs $89.",
+  "samples": [
+   "An out-of-warranty battery replacement for the Nimbus Phone X2 costs $89.",
+   "An out-of-warranty battery replacement for the Nimbus Phone X2 costs $89.",
+   "An out-of-warranty battery replacement for the Nimbus Phone X2 costs $89.",
+   "An out-of-warranty battery replacement for the Nimbus Phone X2 costs $89.",
+   "An out-of-warranty battery replacement for the Nimbus Phone X2 costs $89."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "An out-of-warranty battery replacement for the Nimbus Phone X2 costs $89.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "q06",
+  "type": "normal",
+  "question": "Can I go swimming with the Nimbus Watch S?",
+  "reference": "Yes. The Nimbus Watch S is water resistant to 50 meters and can be used for shallow-water swimming, but not for scuba diving or high-velocity water sports.",
+  "contexts": [
+   "# Nimbus Watch S Overview The Nimbus Watch S is available in 41 mm and 45 mm case sizes, in aluminum or titanium. It has an always-on OLED display and a battery life of up to 36 hours with typical use, or up to 72 hours in Low Power Mode. Health features include heart rate monitoring, blood oxygen measurement, sleep tracking, and fall detection. The ECG feature is available only in the United States and the European Union. The Watch S does not measure blood pressure or blood glucose. The watch charges with the included magnetic fast charger, reaching 80% in about 45 minutes. It requires a Nimbus Phone running NimbusOS 5 or later; it is not compatible with other brands of phones. Cellular models let you make calls and use data without your phone nearby, which requires a carrier plan.",
+   "# Water and Dust Resistance The Nimbus Phone X2 is rated IP68 under the IEC 60529 standard, and is tested to a maximum depth of 6 meters for up to 30 minutes. The Nimbus Watch S is water resistant to 50 meters under ISO 22810 and can be used for shallow-water swimming, but not for scuba diving or high-velocity water sports. Nimbus Buds Pro earbuds are rated IPX4 for sweat and splash resistance; the charging case is not water resistant. Water resistance is not permanent and can decrease as a result of normal wear. Liquid damage is not covered by the limited warranty. Liquid damage is covered as accidental damage under NimbusCare+. If your phone gets wet, do not charge it until it is completely dry, which may take up to 5 hours. Do not use a hair dryer or insert cotton swabs into the charging port.",
+   "# Battery Service and Battery Health Nimbus batteries are designed to retain at least 80% of their original capacity after 800 complete charge cycles on the Nimbus Phone X2 and 1000 cycles on the Nimbus Laptop Air. You can check battery health in Settings > Battery > Battery Health. If the maximum capacity drops below 80% while the device is under warranty or NimbusCare+, the battery is replaced for free. Out of warranty, a battery replacement costs $89 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $49 per earbud for Nimbus Buds Pro, and $199 for the Nimbus Laptop Air. To extend battery life, Nimbus recommends enabling Optimized Charging, which pauses charging at 80% and finishes charging shortly before you usually unplug. Avoid keeping devices in temperatures above 35\u00b0C (95\u00b0F)."
+  ],
+  "answer": "Yes, the Nimbus Watch S is water resistant to 50 meters and can be used for shallow-water swimming.",
+  "samples": [
+   "Yes, the Nimbus Watch S is water resistant to 50 meters and can be used for shallow-water swimming, but not for scuba diving or high-velocity water sports.",
+   "Yes, the Nimbus Watch S is water resistant to 50 meters and can be used for shallow-water swimming.",
+   "Yes, the Nimbus Watch S is water resistant to 50 meters and can be used for shallow-water swimming, but it is not suitable for scuba diving or high-velocity water sports.",
+   "Yes, the Nimbus Watch S is water resistant to 50 meters and can be used for shallow-water swimming.",
+   "Yes, the Nimbus Watch S is water resistant to 50 meters and can be used for shallow-water swimming, but it is not suitable for scuba diving or high-velocity water sports."
+  ],
+  "selfcheck_score": 0.1095365822106883,
+  "selfcheck_sentences": [
+   [
+    "Yes, the Nimbus Watch S is water resistant to 50 meters and can be used for shallow-water swimming.",
+    0.1095365822106883
+   ]
+  ]
+ },
+ {
+  "id": "q07",
+  "type": "normal",
+  "question": "How fast does the Nimbus Phone X2 charge?",
+  "reference": "The Nimbus Phone X2 supports 30 W wired fast charging via USB-C, reaching 50% in about 25 minutes, and 15 W wireless charging.",
+  "contexts": [
+   "# Nimbus Phone X2 Technical Specifications The Nimbus Phone X2 has a 6.3-inch OLED display with a 120 Hz refresh rate and a peak brightness of 2000 nits. It is powered by the Nimbus N3 chip and comes with 8 GB of RAM. Storage options are 128 GB, 256 GB, and 512 GB. The rear camera system includes a 50-megapixel main camera and a 12-megapixel ultra-wide camera. The front camera is 12 megapixels. The phone supports 5G, Wi-Fi 7, and Bluetooth 5.4. The battery capacity is 4,500 mAh. The phone supports 30 W wired fast charging via USB-C, which charges the battery to 50% in about 25 minutes, and 15 W wireless charging. It weighs 187 grams. The Nimbus Phone X2 launched in March 2025 in three colors: Graphite, Glacier, and Sage. It will receive software updates for at least 6 years from launch.",
+   "# Water and Dust Resistance The Nimbus Phone X2 is rated IP68 under the IEC 60529 standard, and is tested to a maximum depth of 6 meters for up to 30 minutes. The Nimbus Watch S is water resistant to 50 meters under ISO 22810 and can be used for shallow-water swimming, but not for scuba diving or high-velocity water sports. Nimbus Buds Pro earbuds are rated IPX4 for sweat and splash resistance; the charging case is not water resistant. Water resistance is not permanent and can decrease as a result of normal wear. Liquid damage is not covered by the limited warranty. Liquid damage is covered as accidental damage under NimbusCare+. If your phone gets wet, do not charge it until it is completely dry, which may take up to 5 hours. Do not use a hair dryer or insert cotton swabs into the charging port.",
+   "# Battery Service and Battery Health Nimbus batteries are designed to retain at least 80% of their original capacity after 800 complete charge cycles on the Nimbus Phone X2 and 1000 cycles on the Nimbus Laptop Air. You can check battery health in Settings > Battery > Battery Health. If the maximum capacity drops below 80% while the device is under warranty or NimbusCare+, the battery is replaced for free. Out of warranty, a battery replacement costs $89 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $49 per earbud for Nimbus Buds Pro, and $199 for the Nimbus Laptop Air. To extend battery life, Nimbus recommends enabling Optimized Charging, which pauses charging at 80% and finishes charging shortly before you usually unplug. Avoid keeping devices in temperatures above 35\u00b0C (95\u00b0F)."
+  ],
+  "answer": "The Nimbus Phone X2 supports 30 W wired fast charging, which charges the battery to 50% in about 25 minutes.",
+  "samples": [
+   "The Nimbus Phone X2 supports 30 W wired fast charging, which charges the battery to 50% in about 25 minutes, and also features 15 W wireless charging.",
+   "The Nimbus Phone X2 supports 30 W wired fast charging, which charges the battery to 50% in about 25 minutes.",
+   "The Nimbus Phone X2 supports 30 W wired fast charging via USB-C, which charges the battery to 50% in about 25 minutes.",
+   "The Nimbus Phone X2 supports 30 W wired fast charging, which charges the battery to 50% in about 25 minutes, and 15 W wireless charging.",
+   "The Nimbus Phone X2 supports 30 W wired fast charging, which charges the battery to 50% in about 25 minutes."
+  ],
+  "selfcheck_score": 0.05860794548954795,
+  "selfcheck_sentences": [
+   [
+    "The Nimbus Phone X2 supports 30 W wired fast charging, which charges the battery to 50% in about 25 minutes.",
+    0.05860794548954795
+   ]
+  ]
+ },
+ {
+  "id": "q08",
+  "type": "normal",
+  "question": "What is the battery life of Nimbus Buds Pro with noise cancellation on?",
+  "reference": "Each earbud gives up to 6 hours of listening time with ANC on, and the case provides up to 30 hours of total listening time.",
+  "contexts": [
+   "# Nimbus Buds Pro Nimbus Buds Pro are wireless earbuds with active noise cancellation (ANC) and a Transparency mode. Each earbud gives up to 6 hours of listening time with ANC on, or 8 hours with ANC off. The charging case provides up to 30 hours of total listening time. Five minutes in the case gives about 1 hour of listening. The case charges via USB-C or any Qi-certified wireless charger. Nimbus Buds Pro come with silicone ear tips in four sizes: extra small, small, medium, and large. An Ear Tip Fit Test is available in the Nimbus app. Nimbus Buds Pro work with any Bluetooth device, but automatic device switching, spatial audio with head tracking, and firmware updates require a Nimbus Phone or Nimbus Laptop Air. A lost single earbud can be replaced for $69 out of warranty.",
+   "# Battery Service and Battery Health Nimbus batteries are designed to retain at least 80% of their original capacity after 800 complete charge cycles on the Nimbus Phone X2 and 1000 cycles on the Nimbus Laptop Air. You can check battery health in Settings > Battery > Battery Health. If the maximum capacity drops below 80% while the device is under warranty or NimbusCare+, the battery is replaced for free. Out of warranty, a battery replacement costs $89 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $49 per earbud for Nimbus Buds Pro, and $199 for the Nimbus Laptop Air. To extend battery life, Nimbus recommends enabling Optimized Charging, which pauses charging at 80% and finishes charging shortly before you usually unplug. Avoid keeping devices in temperatures above 35\u00b0C (95\u00b0F).",
+   "# Water and Dust Resistance The Nimbus Phone X2 is rated IP68 under the IEC 60529 standard, and is tested to a maximum depth of 6 meters for up to 30 minutes. The Nimbus Watch S is water resistant to 50 meters under ISO 22810 and can be used for shallow-water swimming, but not for scuba diving or high-velocity water sports. Nimbus Buds Pro earbuds are rated IPX4 for sweat and splash resistance; the charging case is not water resistant. Water resistance is not permanent and can decrease as a result of normal wear. Liquid damage is not covered by the limited warranty. Liquid damage is covered as accidental damage under NimbusCare+. If your phone gets wet, do not charge it until it is completely dry, which may take up to 5 hours. Do not use a hair dryer or insert cotton swabs into the charging port."
+  ],
+  "answer": "The battery life of Nimbus Buds Pro with noise cancellation on is up to 6 hours.",
+  "samples": [
+   "The battery life of Nimbus Buds Pro with noise cancellation (ANC) on is up to 6 hours.",
+   "The Nimbus Buds Pro provide up to 6 hours of listening time with active noise cancellation (ANC) on.",
+   "The Nimbus Buds Pro provide up to 6 hours of listening time with active noise cancellation (ANC) on.",
+   "The battery life of Nimbus Buds Pro with noise cancellation on is up to 6 hours.",
+   "The Nimbus Buds Pro provide up to 6 hours of listening time with active noise cancellation (ANC) on."
+  ],
+  "selfcheck_score": 0.2592795272212346,
+  "selfcheck_sentences": [
+   [
+    "The battery life of Nimbus Buds Pro with noise cancellation on is up to 6 hours.",
+    0.2592795272212346
+   ]
+  ]
+ },
+ {
+  "id": "q09",
+  "type": "normal",
+  "question": "Does the Nimbus Laptop Air have a fan?",
+  "reference": "No. The Nimbus Laptop Air has a fanless design and runs silently; under heavy sustained workloads the chip may reduce its speed to keep temperatures safe.",
+  "contexts": [
+   "# Nimbus Laptop Air Overview The Nimbus Laptop Air has a 13.6-inch display with a resolution of 2560 by 1664 pixels and 500 nits of brightness. It uses the Nimbus N3 Pro chip and a fanless design, so it runs silently. Configurations are available with 16 GB or 24 GB of memory and 512 GB or 1 TB of storage. The Laptop Air offers up to 18 hours of video playback on a single charge. It has two USB-C ports that support charging and data transfer, a headphone jack, and a MagCharge magnetic charging port. It supports up to two external displays when the lid is closed. The Nimbus Laptop Air weighs 1.24 kg. Because it is fanless, under very heavy sustained workloads the chip may reduce its speed to keep the temperature safe. This behavior is normal and does not indicate a defect.",
+   "# Troubleshooting: Device Feels Warm or Overheats It is normal for Nimbus devices to feel warm while charging, during setup, while restoring from a backup, or during gaming and video recording. If your Nimbus Phone X2 gets too hot, it may display a temperature warning and temporarily limit features: charging may pause, the display may dim, and the camera flash may be disabled. Move the device to a cooler place out of direct sunlight and remove any thick case. If a Nimbus Laptop Air feels hot, make sure it is on a hard, flat surface, quit apps that are using a lot of processing power in Activity Monitor, and update to the latest version of NimbusOS. If the device repeatedly shows a temperature warning in normal room conditions, run Nimbus Diagnostics and contact Nimbus Support. Do not place devices in a refrigerator or freezer to cool them down.",
+   "# Nimbus Diagnostics Nimbus Diagnostics checks your device's hardware for problems, including the battery, display, speakers, microphones, cameras, sensors, and wireless connectivity. To run diagnostics on a Nimbus Phone X2, go to Settings > Privacy > Analytics > Nimbus Diagnostics, or a Nimbus Support agent can send a diagnostics request to your phone. On a Nimbus Laptop Air, shut down the laptop, then press and hold the power button until you see \"Loading startup options,\" and press Command-D. Diagnostics takes 2 to 5 minutes. When complete, you'll see a reference code; codes starting with \"PPT\" indicate a battery issue, and codes starting with \"NDC\" indicate a wireless connectivity issue. Share the reference code with Nimbus Support. Diagnostics does not collect personal data."
+  ],
+  "answer": "No, the Nimbus Laptop Air has a fanless design.",
+  "samples": [
+   "No, the Nimbus Laptop Air has a fanless design.",
+   "No, the Nimbus Laptop Air has a fanless design.",
+   "No, the Nimbus Laptop Air has a fanless design.",
+   "No, the Nimbus Laptop Air has a fanless design.",
+   "No, the Nimbus Laptop Air has a fanless design."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "No, the Nimbus Laptop Air has a fanless design.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "q10",
+  "type": "normal",
+  "question": "How much free cloud storage comes with a Nimbus Account?",
+  "reference": "Every Nimbus Account includes 5 GB of free cloud storage.",
+  "contexts": [
+   "# Backing Up and Restoring Your Device Nimbus Cloud Backup automatically backs up your phone each day when it is connected to power, locked, and on Wi-Fi. Every Nimbus Account includes 5 GB of free cloud storage. Nimbus Cloud+ storage plans are available with 50 GB for $0.99 per month, 200 GB for $2.99 per month, and 2 TB for $9.99 per month. Backups include app data, device settings, photos (if Nimbus Photos sync is off), messages, and home screen layout. Backups do not include data already stored in Nimbus Cloud, such as contacts, calendars, and synced photos. You can also back up to a computer using the Nimbus Link app with a USB-C cable. Local backups can be encrypted with a password; encrypted backups also include saved passwords and health data. To restore, select \"Restore from Nimbus Cloud Backup\" or \"Restore from Computer\" during device setup.",
+   "# NimbusCare+ Protection Plan NimbusCare+ is an optional protection plan that extends coverage to two years from the date of purchase for phones, watches, and earbuds, and to three years for the Nimbus Laptop Air. It must be purchased within 60 days of buying the device. NimbusCare+ adds coverage for up to two incidents of accidental damage every 12 months. Each accidental damage incident is subject to a service fee: $29 for screen-only damage on the Nimbus Phone X2 and $99 for other accidental damage on the phone. For the Nimbus Laptop Air, the service fee is $99 for screen damage and $299 for other damage. NimbusCare+ also includes priority 24/7 phone support and express replacement shipping. NimbusCare+ costs $149 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $29 for Nimbus Buds Pro, and $249 for the Nimbus Laptop Air. NimbusCare+ can be cancelled at any time for a prorated refund. NimbusCare+ does not cover loss or theft.",
+   "# Shipping and Delivery Standard shipping is free on all orders from the Nimbus online store and usually arrives in 3 to 5 business days. Express shipping costs $12 and arrives in 1 to 2 business days. Same-day courier delivery is available in select cities for $15 on orders placed before noon. Nimbus ships to the United States, Canada, the United Kingdom, Ireland, Australia, and most EU countries. Nimbus does not ship to P.O. boxes for orders over $1,000. A signature is required for all deliveries of phones and laptops. You can track your order on the Order Status page. If a package is marked delivered but you have not received it, wait 24 hours and then contact Nimbus Support. You can also choose free in-store pickup at a Nimbus retail store, usually available within 2 hours."
+  ],
+  "answer": "Every Nimbus Account includes 5 GB of free cloud storage.",
+  "samples": [
+   "Every Nimbus Account includes 5 GB of free cloud storage.",
+   "Every Nimbus Account includes 5 GB of free cloud storage.",
+   "Every Nimbus Account includes 5 GB of free cloud storage.",
+   "Every Nimbus Account includes 5 GB of free cloud storage.",
+   "Every Nimbus Account includes 5 GB of free cloud storage."
+  ],
+  "selfcheck_score": 1.1292547574814904e-06,
+  "selfcheck_sentences": [
+   [
+    "Every Nimbus Account includes 5 GB of free cloud storage.",
+    1.1292547574814904e-06
+   ]
+  ]
+ },
+ {
+  "id": "q11",
+  "type": "normal",
+  "question": "Does NimbusCare+ cover a stolen phone?",
+  "reference": "No. NimbusCare+ does not cover loss or theft.",
+  "contexts": [
+   "# Find My Nimbus and Lost or Stolen Devices Find My Nimbus helps you locate, lock, or erase a lost device. You can use it at find.nimbus.example or in the Find My app on another Nimbus device. Find My Nimbus can locate a phone for up to 24 hours after its battery runs out, using the low-power reserve. Lost Mode locks your device with a passcode, displays a custom message with a contact phone number, and suspends Nimbus Pay. If you believe your device was stolen, report it to local law enforcement and your carrier. Nimbus cannot track, locate, or unlock a lost device on your behalf, and Nimbus Support cannot remove Activation Lock without proof of purchase. Neither the limited warranty nor NimbusCare+ covers lost or stolen devices. Nimbus Buds Pro can be located when within Bluetooth range and will play a sound to help you find them.",
+   "# Nimbus Limited Warranty Every new Nimbus device (Nimbus Phone X2, Nimbus Watch S, Nimbus Buds Pro, and Nimbus Laptop Air) includes a one-year limited warranty starting on the original date of purchase. The warranty covers manufacturing defects in materials and workmanship, including faulty buttons, dead pixels on the display, and batteries that fail to hold a charge due to a defect. The limited warranty does not cover accidental damage such as cracked screens, liquid damage, cosmetic scratches, or damage caused by third-party accessories. It also does not cover devices that have been opened or repaired by an unauthorized service provider. To make a warranty claim, customers need the device serial number and proof of purchase. Warranty repairs are free of charge. If a device cannot be repaired, Nimbus will replace it with a new or refurbished device of equivalent functionality. Replacement devices are covered for the remainder of the original warranty or 90 days, whichever is longer.",
+   "# NimbusCare+ Protection Plan NimbusCare+ is an optional protection plan that extends coverage to two years from the date of purchase for phones, watches, and earbuds, and to three years for the Nimbus Laptop Air. It must be purchased within 60 days of buying the device. NimbusCare+ adds coverage for up to two incidents of accidental damage every 12 months. Each accidental damage incident is subject to a service fee: $29 for screen-only damage on the Nimbus Phone X2 and $99 for other accidental damage on the phone. For the Nimbus Laptop Air, the service fee is $99 for screen damage and $299 for other damage. NimbusCare+ also includes priority 24/7 phone support and express replacement shipping. NimbusCare+ costs $149 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $29 for Nimbus Buds Pro, and $249 for the Nimbus Laptop Air. NimbusCare+ can be cancelled at any time for a prorated refund. NimbusCare+ does not cover loss or theft."
+  ],
+  "answer": "No, NimbusCare+ does not cover loss or theft.",
+  "samples": [
+   "No, NimbusCare+ does not cover loss or theft.",
+   "No, NimbusCare+ does not cover loss or theft.",
+   "No, NimbusCare+ does not cover loss or theft.",
+   "No, NimbusCare+ does not cover loss or theft.",
+   "No, NimbusCare+ does not cover loss or theft."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "No, NimbusCare+ does not cover loss or theft.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "q12",
+  "type": "normal",
+  "question": "What is Repair Mode and which devices support it?",
+  "reference": "Repair Mode keeps your data encrypted and locked while a technician runs diagnostics. It is available on the Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later.",
+  "contexts": [
+   "# Your Privacy During Repairs Nimbus technicians do not need access to your personal data to perform most repairs. When you send a device for service, you can turn on Repair Mode, which keeps your data encrypted and locked while still allowing the technician to run diagnostics. Repair Mode is available on Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later. If Repair Mode is not available, Nimbus recommends backing up and erasing your device before service. Nimbus never asks for your Nimbus Account password during a repair, and technicians are prohibited from viewing photos, messages, or other personal content. Diagnostic logs collected during service contain hardware information only and are deleted 90 days after the repair is complete. Repair records, including the device serial number and repair description, are kept for 3 years for warranty purposes.",
+   "# Nimbus Limited Warranty Every new Nimbus device (Nimbus Phone X2, Nimbus Watch S, Nimbus Buds Pro, and Nimbus Laptop Air) includes a one-year limited warranty starting on the original date of purchase. The warranty covers manufacturing defects in materials and workmanship, including faulty buttons, dead pixels on the display, and batteries that fail to hold a charge due to a defect. The limited warranty does not cover accidental damage such as cracked screens, liquid damage, cosmetic scratches, or damage caused by third-party accessories. It also does not cover devices that have been opened or repaired by an unauthorized service provider. To make a warranty claim, customers need the device serial number and proof of purchase. Warranty repairs are free of charge. If a device cannot be repaired, Nimbus will replace it with a new or refurbished device of equivalent functionality. Replacement devices are covered for the remainder of the original warranty or 90 days, whichever is longer.",
+   "# Screen Repair If your Nimbus Phone X2 screen is cracked or shows lines, flicker, or touch problems, you can request a screen repair online, at a Nimbus retail store, or through an Authorized Nimbus Service Provider. Without NimbusCare+, an out-of-warranty screen replacement for the Nimbus Phone X2 costs $279. A Nimbus Watch S screen replacement costs $199. A Nimbus Laptop Air display replacement costs $549. With NimbusCare+, the screen-only service fee for the phone is $29. Most in-store phone screen repairs are completed the same day, usually within 3 hours. Mail-in repairs take 5 to 7 business days including shipping. Only genuine Nimbus displays are used. After a screen repair, the True Color calibration is restored automatically the next time the phone connects to Wi-Fi."
+  ],
+  "answer": "Repair Mode is a feature that keeps your data encrypted and locked while allowing technicians to run diagnostics during repairs. It is available on the Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later.",
+  "samples": [
+   "Repair Mode is a feature that keeps your data encrypted and locked while allowing technicians to run diagnostics during repairs. It is available on Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later.",
+   "Repair Mode is a feature that keeps your data encrypted and locked while allowing technicians to run diagnostics during repairs. It is available on Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later.",
+   "Repair Mode is a feature that keeps your data encrypted and locked while allowing technicians to run diagnostics during repairs. It is available on Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later.",
+   "Repair Mode is a feature that keeps your data encrypted and locked while allowing technicians to run diagnostics during repairs. It is available on the Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later.",
+   "Repair Mode is a feature that allows users to keep their data encrypted and locked while enabling technicians to run diagnostics during repairs. It is supported on the Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later."
+  ],
+  "selfcheck_score": 0.018515599778359704,
+  "selfcheck_sentences": [
+   [
+    "Repair Mode is a feature that keeps your data encrypted and locked while allowing technicians to run diagnostics during repairs.",
+    0.013999070092584942
+   ],
+   [
+    "It is available on the Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later.",
+    0.023032129464134465
+   ]
+  ]
+ },
+ {
+  "id": "q13",
+  "type": "normal",
+  "question": "What does a diagnostics reference code starting with PPT mean?",
+  "reference": "A reference code starting with PPT indicates a battery issue.",
+  "contexts": [
+   "# Nimbus Diagnostics Nimbus Diagnostics checks your device's hardware for problems, including the battery, display, speakers, microphones, cameras, sensors, and wireless connectivity. To run diagnostics on a Nimbus Phone X2, go to Settings > Privacy > Analytics > Nimbus Diagnostics, or a Nimbus Support agent can send a diagnostics request to your phone. On a Nimbus Laptop Air, shut down the laptop, then press and hold the power button until you see \"Loading startup options,\" and press Command-D. Diagnostics takes 2 to 5 minutes. When complete, you'll see a reference code; codes starting with \"PPT\" indicate a battery issue, and codes starting with \"NDC\" indicate a wireless connectivity issue. Share the reference code with Nimbus Support. Diagnostics does not collect personal data.",
+   "# Your Privacy During Repairs Nimbus technicians do not need access to your personal data to perform most repairs. When you send a device for service, you can turn on Repair Mode, which keeps your data encrypted and locked while still allowing the technician to run diagnostics. Repair Mode is available on Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later. If Repair Mode is not available, Nimbus recommends backing up and erasing your device before service. Nimbus never asks for your Nimbus Account password during a repair, and technicians are prohibited from viewing photos, messages, or other personal content. Diagnostic logs collected during service contain hardware information only and are deleted 90 days after the repair is complete. Repair records, including the device serial number and repair description, are kept for 3 years for warranty purposes.",
+   "# Nimbus Limited Warranty Every new Nimbus device (Nimbus Phone X2, Nimbus Watch S, Nimbus Buds Pro, and Nimbus Laptop Air) includes a one-year limited warranty starting on the original date of purchase. The warranty covers manufacturing defects in materials and workmanship, including faulty buttons, dead pixels on the display, and batteries that fail to hold a charge due to a defect. The limited warranty does not cover accidental damage such as cracked screens, liquid damage, cosmetic scratches, or damage caused by third-party accessories. It also does not cover devices that have been opened or repaired by an unauthorized service provider. To make a warranty claim, customers need the device serial number and proof of purchase. Warranty repairs are free of charge. If a device cannot be repaired, Nimbus will replace it with a new or refurbished device of equivalent functionality. Replacement devices are covered for the remainder of the original warranty or 90 days, whichever is longer."
+  ],
+  "answer": "A diagnostics reference code starting with \"PPT\" indicates a battery issue.",
+  "samples": [
+   "A diagnostics reference code starting with \"PPT\" indicates a battery issue.",
+   "A diagnostics reference code starting with \"PPT\" indicates a battery issue.",
+   "A diagnostics reference code starting with \"PPT\" indicates a battery issue.",
+   "A diagnostics reference code starting with \"PPT\" indicates a battery issue.",
+   "A diagnostics reference code starting with \"PPT\" indicates a battery issue."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "A diagnostics reference code starting with \"PPT\" indicates a battery issue.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "q14",
+  "type": "normal",
+  "question": "Can I get my Nimbus Phone X2 bought in Canada serviced in the United Kingdom?",
+  "reference": "No. The Nimbus Phone X2 warranty is country-specific; a phone bought in Canada can be serviced in Canada or the United States, but not the United Kingdom.",
+  "contexts": [
+   "# International Warranty Coverage The Nimbus limited warranty for the Nimbus Laptop Air and Nimbus Watch S is international: service is available in any country where Nimbus or its Authorized Service Providers sell that product. The Nimbus Phone X2 warranty is country-specific because phone models differ by region. Phones can only be serviced in the country or region where they were originally purchased. For example, a Nimbus Phone X2 bought in Canada can be serviced in Canada or the United States, but not in the United Kingdom. NimbusCare+ coverage follows the same rules as the limited warranty for each product. Some service options, such as express replacement, may not be available in every country. Import taxes or shipping fees may apply when service is requested outside the original country of purchase.",
+   "# Nimbus Phone X2 Technical Specifications The Nimbus Phone X2 has a 6.3-inch OLED display with a 120 Hz refresh rate and a peak brightness of 2000 nits. It is powered by the Nimbus N3 chip and comes with 8 GB of RAM. Storage options are 128 GB, 256 GB, and 512 GB. The rear camera system includes a 50-megapixel main camera and a 12-megapixel ultra-wide camera. The front camera is 12 megapixels. The phone supports 5G, Wi-Fi 7, and Bluetooth 5.4. The battery capacity is 4,500 mAh. The phone supports 30 W wired fast charging via USB-C, which charges the battery to 50% in about 25 minutes, and 15 W wireless charging. It weighs 187 grams. The Nimbus Phone X2 launched in March 2025 in three colors: Graphite, Glacier, and Sage. It will receive software updates for at least 6 years from launch.",
+   "# Nimbus Limited Warranty Every new Nimbus device (Nimbus Phone X2, Nimbus Watch S, Nimbus Buds Pro, and Nimbus Laptop Air) includes a one-year limited warranty starting on the original date of purchase. The warranty covers manufacturing defects in materials and workmanship, including faulty buttons, dead pixels on the display, and batteries that fail to hold a charge due to a defect. The limited warranty does not cover accidental damage such as cracked screens, liquid damage, cosmetic scratches, or damage caused by third-party accessories. It also does not cover devices that have been opened or repaired by an unauthorized service provider. To make a warranty claim, customers need the device serial number and proof of purchase. Warranty repairs are free of charge. If a device cannot be repaired, Nimbus will replace it with a new or refurbished device of equivalent functionality. Replacement devices are covered for the remainder of the original warranty or 90 days, whichever is longer."
+  ],
+  "answer": "No, you cannot get your Nimbus Phone X2 bought in Canada serviced in the United Kingdom. It can only be serviced in the country or region where it was originally purchased.",
+  "samples": [
+   "No, a Nimbus Phone X2 bought in Canada cannot be serviced in the United Kingdom. It can only be serviced in Canada or the United States.",
+   "No, you cannot get your Nimbus Phone X2 bought in Canada serviced in the United Kingdom; it can only be serviced in the country or region where it was originally purchased.",
+   "No, a Nimbus Phone X2 bought in Canada can only be serviced in Canada or the United States, not in the United Kingdom.",
+   "No, a Nimbus Phone X2 bought in Canada can only be serviced in Canada or the United States, not in the United Kingdom.",
+   "No, you cannot get your Nimbus Phone X2 bought in Canada serviced in the United Kingdom."
+  ],
+  "selfcheck_score": 0.409966679776248,
+  "selfcheck_sentences": [
+   [
+    "No, you cannot get your Nimbus Phone X2 bought in Canada serviced in the United Kingdom.",
+    0.21959472955198334
+   ],
+   [
+    "It can only be serviced in the country or region where it was originally purchased.",
+    0.6003386300005127
+   ]
+  ]
+ },
+ {
+  "id": "q15",
+  "type": "normal",
+  "question": "Can I trade in my Nimbus Buds Pro?",
+  "reference": "No. Nimbus Buds Pro are not eligible for trade-in credit, but they can be recycled for free.",
+  "contexts": [
+   "# Nimbus Trade In Nimbus Trade In lets you exchange an eligible device for credit toward a new purchase or for a Nimbus Gift Card. Eligible devices include Nimbus phones, watches, and laptops from the last five years. Nimbus Buds Pro are not eligible for trade-in credit but can be recycled for free. The trade-in value depends on the model, storage, and condition. The device must power on, hold a charge, and have no cracks on the display or back. Devices that do not qualify for credit are recycled for free. For online trade-ins, Nimbus sends a prepaid trade-in kit. You have 14 days to send your device after receiving the kit. If the device's condition does not match your description, Nimbus will send a revised offer, which you can accept or decline; if you decline, the device is returned to you for free. Turn off Find My Nimbus and erase the device before sending it.",
+   "# Nimbus Buds Pro Nimbus Buds Pro are wireless earbuds with active noise cancellation (ANC) and a Transparency mode. Each earbud gives up to 6 hours of listening time with ANC on, or 8 hours with ANC off. The charging case provides up to 30 hours of total listening time. Five minutes in the case gives about 1 hour of listening. The case charges via USB-C or any Qi-certified wireless charger. Nimbus Buds Pro come with silicone ear tips in four sizes: extra small, small, medium, and large. An Ear Tip Fit Test is available in the Nimbus app. Nimbus Buds Pro work with any Bluetooth device, but automatic device switching, spatial audio with head tracking, and firmware updates require a Nimbus Phone or Nimbus Laptop Air. A lost single earbud can be replaced for $69 out of warranty.",
+   "# Return Policy Nimbus products bought directly from the Nimbus online store or a Nimbus retail store can be returned within 14 days of delivery for a full refund. The device must be in its original condition, with all included accessories and the original packaging. Opened software, gift cards, and personalized (engraved) products cannot be returned. Earbuds can only be returned if the hygiene seal has not been broken, unless they are defective. Refunds are issued to the original payment method. Card refunds typically take 5 to 10 business days to appear. Return shipping is free for customers in the United States, Canada, and the United Kingdom. Products bought from third-party retailers must be returned to that retailer according to its own policy. Holiday purchases made between November 1 and December 25 can be returned until January 8 of the following year."
+  ],
+  "answer": "No, Nimbus Buds Pro are not eligible for trade-in credit but can be recycled for free.",
+  "samples": [
+   "No, Nimbus Buds Pro are not eligible for trade-in credit. However, they can be recycled for free.",
+   "No, Nimbus Buds Pro are not eligible for trade-in credit, but they can be recycled for free.",
+   "No, Nimbus Buds Pro are not eligible for trade-in credit but can be recycled for free.",
+   "No, Nimbus Buds Pro are not eligible for trade-in credit, but they can be recycled for free.",
+   "No, Nimbus Buds Pro are not eligible for trade-in credit, but they can be recycled for free."
+  ],
+  "selfcheck_score": 0.07612991400689262,
+  "selfcheck_sentences": [
+   [
+    "No, Nimbus Buds Pro are not eligible for trade-in credit but can be recycled for free.",
+    0.07612991400689262
+   ]
+  ]
+ },
+ {
+  "id": "t01",
+  "type": "trap",
+  "question": "Can the Nimbus Watch S measure my blood pressure, and how accurate is it?",
+  "reference": "No. The Nimbus Watch S does not measure blood pressure.",
+  "contexts": [
+   "# Nimbus Watch S Overview The Nimbus Watch S is available in 41 mm and 45 mm case sizes, in aluminum or titanium. It has an always-on OLED display and a battery life of up to 36 hours with typical use, or up to 72 hours in Low Power Mode. Health features include heart rate monitoring, blood oxygen measurement, sleep tracking, and fall detection. The ECG feature is available only in the United States and the European Union. The Watch S does not measure blood pressure or blood glucose. The watch charges with the included magnetic fast charger, reaching 80% in about 45 minutes. It requires a Nimbus Phone running NimbusOS 5 or later; it is not compatible with other brands of phones. Cellular models let you make calls and use data without your phone nearby, which requires a carrier plan.",
+   "# Water and Dust Resistance The Nimbus Phone X2 is rated IP68 under the IEC 60529 standard, and is tested to a maximum depth of 6 meters for up to 30 minutes. The Nimbus Watch S is water resistant to 50 meters under ISO 22810 and can be used for shallow-water swimming, but not for scuba diving or high-velocity water sports. Nimbus Buds Pro earbuds are rated IPX4 for sweat and splash resistance; the charging case is not water resistant. Water resistance is not permanent and can decrease as a result of normal wear. Liquid damage is not covered by the limited warranty. Liquid damage is covered as accidental damage under NimbusCare+. If your phone gets wet, do not charge it until it is completely dry, which may take up to 5 hours. Do not use a hair dryer or insert cotton swabs into the charging port.",
+   "# Battery Service and Battery Health Nimbus batteries are designed to retain at least 80% of their original capacity after 800 complete charge cycles on the Nimbus Phone X2 and 1000 cycles on the Nimbus Laptop Air. You can check battery health in Settings > Battery > Battery Health. If the maximum capacity drops below 80% while the device is under warranty or NimbusCare+, the battery is replaced for free. Out of warranty, a battery replacement costs $89 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $49 per earbud for Nimbus Buds Pro, and $199 for the Nimbus Laptop Air. To extend battery life, Nimbus recommends enabling Optimized Charging, which pauses charging at 80% and finishes charging shortly before you usually unplug. Avoid keeping devices in temperatures above 35\u00b0C (95\u00b0F)."
+  ],
+  "answer": "The Nimbus Watch S does not measure blood pressure. I don't know based on the provided documents.",
+  "samples": [
+   "I don't know based on the provided documents.",
+   "The Nimbus Watch S does not measure blood pressure. I don't know based on the provided documents.",
+   "The Nimbus Watch S does not measure blood pressure. I don't know based on the provided documents.",
+   "The Nimbus Watch S does not measure blood pressure. I don't know based on the provided documents.",
+   "The Nimbus Watch S does not measure blood pressure. I don't know based on the provided documents."
+  ],
+  "selfcheck_score": 0.09480744891745996,
+  "selfcheck_sentences": [
+   [
+    "The Nimbus Watch S does not measure blood pressure.",
+    0.18961489783491992
+   ],
+   [
+    "I don't know based on the provided documents.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "t02",
+  "type": "trap",
+  "question": "How much does it cost to replace the rear camera on a Nimbus Phone X2?",
+  "reference": "The knowledge base does not state the cost of a rear camera replacement.",
+  "contexts": [
+   "# Screen Repair If your Nimbus Phone X2 screen is cracked or shows lines, flicker, or touch problems, you can request a screen repair online, at a Nimbus retail store, or through an Authorized Nimbus Service Provider. Without NimbusCare+, an out-of-warranty screen replacement for the Nimbus Phone X2 costs $279. A Nimbus Watch S screen replacement costs $199. A Nimbus Laptop Air display replacement costs $549. With NimbusCare+, the screen-only service fee for the phone is $29. Most in-store phone screen repairs are completed the same day, usually within 3 hours. Mail-in repairs take 5 to 7 business days including shipping. Only genuine Nimbus displays are used. After a screen repair, the True Color calibration is restored automatically the next time the phone connects to Wi-Fi.",
+   "# Nimbus Phone X2 Technical Specifications The Nimbus Phone X2 has a 6.3-inch OLED display with a 120 Hz refresh rate and a peak brightness of 2000 nits. It is powered by the Nimbus N3 chip and comes with 8 GB of RAM. Storage options are 128 GB, 256 GB, and 512 GB. The rear camera system includes a 50-megapixel main camera and a 12-megapixel ultra-wide camera. The front camera is 12 megapixels. The phone supports 5G, Wi-Fi 7, and Bluetooth 5.4. The battery capacity is 4,500 mAh. The phone supports 30 W wired fast charging via USB-C, which charges the battery to 50% in about 25 minutes, and 15 W wireless charging. It weighs 187 grams. The Nimbus Phone X2 launched in March 2025 in three colors: Graphite, Glacier, and Sage. It will receive software updates for at least 6 years from launch.",
+   "# NimbusCare+ Protection Plan NimbusCare+ is an optional protection plan that extends coverage to two years from the date of purchase for phones, watches, and earbuds, and to three years for the Nimbus Laptop Air. It must be purchased within 60 days of buying the device. NimbusCare+ adds coverage for up to two incidents of accidental damage every 12 months. Each accidental damage incident is subject to a service fee: $29 for screen-only damage on the Nimbus Phone X2 and $99 for other accidental damage on the phone. For the Nimbus Laptop Air, the service fee is $99 for screen damage and $299 for other damage. NimbusCare+ also includes priority 24/7 phone support and express replacement shipping. NimbusCare+ costs $149 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $29 for Nimbus Buds Pro, and $249 for the Nimbus Laptop Air. NimbusCare+ can be cancelled at any time for a prorated refund. NimbusCare+ does not cover loss or theft."
+  ],
+  "answer": "I don't know based on the provided documents.",
+  "samples": [
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "I don't know based on the provided documents.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "t03",
+  "type": "trap",
+  "question": "What is the price of the Nimbus Phone X2 with 256 GB of storage?",
+  "reference": "The knowledge base lists 256 GB as a storage option but does not give the price of the phone.",
+  "contexts": [
+   "# Nimbus Phone X2 Technical Specifications The Nimbus Phone X2 has a 6.3-inch OLED display with a 120 Hz refresh rate and a peak brightness of 2000 nits. It is powered by the Nimbus N3 chip and comes with 8 GB of RAM. Storage options are 128 GB, 256 GB, and 512 GB. The rear camera system includes a 50-megapixel main camera and a 12-megapixel ultra-wide camera. The front camera is 12 megapixels. The phone supports 5G, Wi-Fi 7, and Bluetooth 5.4. The battery capacity is 4,500 mAh. The phone supports 30 W wired fast charging via USB-C, which charges the battery to 50% in about 25 minutes, and 15 W wireless charging. It weighs 187 grams. The Nimbus Phone X2 launched in March 2025 in three colors: Graphite, Glacier, and Sage. It will receive software updates for at least 6 years from launch.",
+   "# Backing Up and Restoring Your Device Nimbus Cloud Backup automatically backs up your phone each day when it is connected to power, locked, and on Wi-Fi. Every Nimbus Account includes 5 GB of free cloud storage. Nimbus Cloud+ storage plans are available with 50 GB for $0.99 per month, 200 GB for $2.99 per month, and 2 TB for $9.99 per month. Backups include app data, device settings, photos (if Nimbus Photos sync is off), messages, and home screen layout. Backups do not include data already stored in Nimbus Cloud, such as contacts, calendars, and synced photos. You can also back up to a computer using the Nimbus Link app with a USB-C cable. Local backups can be encrypted with a password; encrypted backups also include saved passwords and health data. To restore, select \"Restore from Nimbus Cloud Backup\" or \"Restore from Computer\" during device setup.",
+   "# NimbusCare+ Protection Plan NimbusCare+ is an optional protection plan that extends coverage to two years from the date of purchase for phones, watches, and earbuds, and to three years for the Nimbus Laptop Air. It must be purchased within 60 days of buying the device. NimbusCare+ adds coverage for up to two incidents of accidental damage every 12 months. Each accidental damage incident is subject to a service fee: $29 for screen-only damage on the Nimbus Phone X2 and $99 for other accidental damage on the phone. For the Nimbus Laptop Air, the service fee is $99 for screen damage and $299 for other damage. NimbusCare+ also includes priority 24/7 phone support and express replacement shipping. NimbusCare+ costs $149 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $29 for Nimbus Buds Pro, and $249 for the Nimbus Laptop Air. NimbusCare+ can be cancelled at any time for a prorated refund. NimbusCare+ does not cover loss or theft."
+  ],
+  "answer": "I don't know based on the provided documents.",
+  "samples": [
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "I don't know based on the provided documents.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "t04",
+  "type": "trap",
+  "question": "How long does the Nimbus Laptop Air battery last when gaming?",
+  "reference": "The knowledge base only states up to 18 hours of video playback; it does not give a battery life for gaming.",
+  "contexts": [
+   "# Nimbus Laptop Air Overview The Nimbus Laptop Air has a 13.6-inch display with a resolution of 2560 by 1664 pixels and 500 nits of brightness. It uses the Nimbus N3 Pro chip and a fanless design, so it runs silently. Configurations are available with 16 GB or 24 GB of memory and 512 GB or 1 TB of storage. The Laptop Air offers up to 18 hours of video playback on a single charge. It has two USB-C ports that support charging and data transfer, a headphone jack, and a MagCharge magnetic charging port. It supports up to two external displays when the lid is closed. The Nimbus Laptop Air weighs 1.24 kg. Because it is fanless, under very heavy sustained workloads the chip may reduce its speed to keep the temperature safe. This behavior is normal and does not indicate a defect.",
+   "# Battery Service and Battery Health Nimbus batteries are designed to retain at least 80% of their original capacity after 800 complete charge cycles on the Nimbus Phone X2 and 1000 cycles on the Nimbus Laptop Air. You can check battery health in Settings > Battery > Battery Health. If the maximum capacity drops below 80% while the device is under warranty or NimbusCare+, the battery is replaced for free. Out of warranty, a battery replacement costs $89 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $49 per earbud for Nimbus Buds Pro, and $199 for the Nimbus Laptop Air. To extend battery life, Nimbus recommends enabling Optimized Charging, which pauses charging at 80% and finishes charging shortly before you usually unplug. Avoid keeping devices in temperatures above 35\u00b0C (95\u00b0F).",
+   "# Nimbus Diagnostics Nimbus Diagnostics checks your device's hardware for problems, including the battery, display, speakers, microphones, cameras, sensors, and wireless connectivity. To run diagnostics on a Nimbus Phone X2, go to Settings > Privacy > Analytics > Nimbus Diagnostics, or a Nimbus Support agent can send a diagnostics request to your phone. On a Nimbus Laptop Air, shut down the laptop, then press and hold the power button until you see \"Loading startup options,\" and press Command-D. Diagnostics takes 2 to 5 minutes. When complete, you'll see a reference code; codes starting with \"PPT\" indicate a battery issue, and codes starting with \"NDC\" indicate a wireless connectivity issue. Share the reference code with Nimbus Support. Diagnostics does not collect personal data."
+  ],
+  "answer": "I don't know based on the provided documents.",
+  "samples": [
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "I don't know based on the provided documents.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "t05",
+  "type": "trap",
+  "question": "Which chip does the Nimbus Watch S use?",
+  "reference": "The knowledge base does not say which chip the Nimbus Watch S uses.",
+  "contexts": [
+   "# Nimbus Watch S Overview The Nimbus Watch S is available in 41 mm and 45 mm case sizes, in aluminum or titanium. It has an always-on OLED display and a battery life of up to 36 hours with typical use, or up to 72 hours in Low Power Mode. Health features include heart rate monitoring, blood oxygen measurement, sleep tracking, and fall detection. The ECG feature is available only in the United States and the European Union. The Watch S does not measure blood pressure or blood glucose. The watch charges with the included magnetic fast charger, reaching 80% in about 45 minutes. It requires a Nimbus Phone running NimbusOS 5 or later; it is not compatible with other brands of phones. Cellular models let you make calls and use data without your phone nearby, which requires a carrier plan.",
+   "# Nimbus Limited Warranty Every new Nimbus device (Nimbus Phone X2, Nimbus Watch S, Nimbus Buds Pro, and Nimbus Laptop Air) includes a one-year limited warranty starting on the original date of purchase. The warranty covers manufacturing defects in materials and workmanship, including faulty buttons, dead pixels on the display, and batteries that fail to hold a charge due to a defect. The limited warranty does not cover accidental damage such as cracked screens, liquid damage, cosmetic scratches, or damage caused by third-party accessories. It also does not cover devices that have been opened or repaired by an unauthorized service provider. To make a warranty claim, customers need the device serial number and proof of purchase. Warranty repairs are free of charge. If a device cannot be repaired, Nimbus will replace it with a new or refurbished device of equivalent functionality. Replacement devices are covered for the remainder of the original warranty or 90 days, whichever is longer.",
+   "# Nimbus Phone X2 Technical Specifications The Nimbus Phone X2 has a 6.3-inch OLED display with a 120 Hz refresh rate and a peak brightness of 2000 nits. It is powered by the Nimbus N3 chip and comes with 8 GB of RAM. Storage options are 128 GB, 256 GB, and 512 GB. The rear camera system includes a 50-megapixel main camera and a 12-megapixel ultra-wide camera. The front camera is 12 megapixels. The phone supports 5G, Wi-Fi 7, and Bluetooth 5.4. The battery capacity is 4,500 mAh. The phone supports 30 W wired fast charging via USB-C, which charges the battery to 50% in about 25 minutes, and 15 W wireless charging. It weighs 187 grams. The Nimbus Phone X2 launched in March 2025 in three colors: Graphite, Glacier, and Sage. It will receive software updates for at least 6 years from launch."
+  ],
+  "answer": "I don't know based on the provided documents.",
+  "samples": [
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "I don't know based on the provided documents.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "t06",
+  "type": "trap",
+  "question": "How do I file a theft claim under NimbusCare+ and what is the deductible?",
+  "reference": "You cannot. NimbusCare+ does not cover loss or theft, so there is no theft claim or deductible.",
+  "contexts": [
+   "# NimbusCare+ Protection Plan NimbusCare+ is an optional protection plan that extends coverage to two years from the date of purchase for phones, watches, and earbuds, and to three years for the Nimbus Laptop Air. It must be purchased within 60 days of buying the device. NimbusCare+ adds coverage for up to two incidents of accidental damage every 12 months. Each accidental damage incident is subject to a service fee: $29 for screen-only damage on the Nimbus Phone X2 and $99 for other accidental damage on the phone. For the Nimbus Laptop Air, the service fee is $99 for screen damage and $299 for other damage. NimbusCare+ also includes priority 24/7 phone support and express replacement shipping. NimbusCare+ costs $149 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $29 for Nimbus Buds Pro, and $249 for the Nimbus Laptop Air. NimbusCare+ can be cancelled at any time for a prorated refund. NimbusCare+ does not cover loss or theft.",
+   "# Nimbus Limited Warranty Every new Nimbus device (Nimbus Phone X2, Nimbus Watch S, Nimbus Buds Pro, and Nimbus Laptop Air) includes a one-year limited warranty starting on the original date of purchase. The warranty covers manufacturing defects in materials and workmanship, including faulty buttons, dead pixels on the display, and batteries that fail to hold a charge due to a defect. The limited warranty does not cover accidental damage such as cracked screens, liquid damage, cosmetic scratches, or damage caused by third-party accessories. It also does not cover devices that have been opened or repaired by an unauthorized service provider. To make a warranty claim, customers need the device serial number and proof of purchase. Warranty repairs are free of charge. If a device cannot be repaired, Nimbus will replace it with a new or refurbished device of equivalent functionality. Replacement devices are covered for the remainder of the original warranty or 90 days, whichever is longer.",
+   "# Find My Nimbus and Lost or Stolen Devices Find My Nimbus helps you locate, lock, or erase a lost device. You can use it at find.nimbus.example or in the Find My app on another Nimbus device. Find My Nimbus can locate a phone for up to 24 hours after its battery runs out, using the low-power reserve. Lost Mode locks your device with a passcode, displays a custom message with a contact phone number, and suspends Nimbus Pay. If you believe your device was stolen, report it to local law enforcement and your carrier. Nimbus cannot track, locate, or unlock a lost device on your behalf, and Nimbus Support cannot remove Activation Lock without proof of purchase. Neither the limited warranty nor NimbusCare+ covers lost or stolen devices. Nimbus Buds Pro can be located when within Bluetooth range and will play a sound to help you find them."
+  ],
+  "answer": "I don't know based on the provided documents.",
+  "samples": [
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "I don't know based on the provided documents.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "t07",
+  "type": "trap",
+  "question": "How often should I clean the fan in my Nimbus Laptop Air?",
+  "reference": "The Nimbus Laptop Air has a fanless design, so there is no fan to clean.",
+  "contexts": [
+   "# Nimbus Laptop Air Overview The Nimbus Laptop Air has a 13.6-inch display with a resolution of 2560 by 1664 pixels and 500 nits of brightness. It uses the Nimbus N3 Pro chip and a fanless design, so it runs silently. Configurations are available with 16 GB or 24 GB of memory and 512 GB or 1 TB of storage. The Laptop Air offers up to 18 hours of video playback on a single charge. It has two USB-C ports that support charging and data transfer, a headphone jack, and a MagCharge magnetic charging port. It supports up to two external displays when the lid is closed. The Nimbus Laptop Air weighs 1.24 kg. Because it is fanless, under very heavy sustained workloads the chip may reduce its speed to keep the temperature safe. This behavior is normal and does not indicate a defect.",
+   "# NimbusCare+ Protection Plan NimbusCare+ is an optional protection plan that extends coverage to two years from the date of purchase for phones, watches, and earbuds, and to three years for the Nimbus Laptop Air. It must be purchased within 60 days of buying the device. NimbusCare+ adds coverage for up to two incidents of accidental damage every 12 months. Each accidental damage incident is subject to a service fee: $29 for screen-only damage on the Nimbus Phone X2 and $99 for other accidental damage on the phone. For the Nimbus Laptop Air, the service fee is $99 for screen damage and $299 for other damage. NimbusCare+ also includes priority 24/7 phone support and express replacement shipping. NimbusCare+ costs $149 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $29 for Nimbus Buds Pro, and $249 for the Nimbus Laptop Air. NimbusCare+ can be cancelled at any time for a prorated refund. NimbusCare+ does not cover loss or theft.",
+   "# Battery Service and Battery Health Nimbus batteries are designed to retain at least 80% of their original capacity after 800 complete charge cycles on the Nimbus Phone X2 and 1000 cycles on the Nimbus Laptop Air. You can check battery health in Settings > Battery > Battery Health. If the maximum capacity drops below 80% while the device is under warranty or NimbusCare+, the battery is replaced for free. Out of warranty, a battery replacement costs $89 for the Nimbus Phone X2, $79 for the Nimbus Watch S, $49 per earbud for Nimbus Buds Pro, and $199 for the Nimbus Laptop Air. To extend battery life, Nimbus recommends enabling Optimized Charging, which pauses charging at 80% and finishes charging shortly before you usually unplug. Avoid keeping devices in temperatures above 35\u00b0C (95\u00b0F)."
+  ],
+  "answer": "I don't know based on the provided documents.",
+  "samples": [
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "I don't know based on the provided documents.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "t08",
+  "type": "trap",
+  "question": "How long does express shipping take to Japan?",
+  "reference": "The knowledge base does not list Japan as a shipping destination; Nimbus ships to the US, Canada, the UK, Ireland, Australia, and most EU countries.",
+  "contexts": [
+   "# Shipping and Delivery Standard shipping is free on all orders from the Nimbus online store and usually arrives in 3 to 5 business days. Express shipping costs $12 and arrives in 1 to 2 business days. Same-day courier delivery is available in select cities for $15 on orders placed before noon. Nimbus ships to the United States, Canada, the United Kingdom, Ireland, Australia, and most EU countries. Nimbus does not ship to P.O. boxes for orders over $1,000. A signature is required for all deliveries of phones and laptops. You can track your order on the Order Status page. If a package is marked delivered but you have not received it, wait 24 hours and then contact Nimbus Support. You can also choose free in-store pickup at a Nimbus retail store, usually available within 2 hours.",
+   "# Return Policy Nimbus products bought directly from the Nimbus online store or a Nimbus retail store can be returned within 14 days of delivery for a full refund. The device must be in its original condition, with all included accessories and the original packaging. Opened software, gift cards, and personalized (engraved) products cannot be returned. Earbuds can only be returned if the hygiene seal has not been broken, unless they are defective. Refunds are issued to the original payment method. Card refunds typically take 5 to 10 business days to appear. Return shipping is free for customers in the United States, Canada, and the United Kingdom. Products bought from third-party retailers must be returned to that retailer according to its own policy. Holiday purchases made between November 1 and December 25 can be returned until January 8 of the following year.",
+   "# International Warranty Coverage The Nimbus limited warranty for the Nimbus Laptop Air and Nimbus Watch S is international: service is available in any country where Nimbus or its Authorized Service Providers sell that product. The Nimbus Phone X2 warranty is country-specific because phone models differ by region. Phones can only be serviced in the country or region where they were originally purchased. For example, a Nimbus Phone X2 bought in Canada can be serviced in Canada or the United States, but not in the United Kingdom. NimbusCare+ coverage follows the same rules as the limited warranty for each product. Some service options, such as express replacement, may not be available in every country. Import taxes or shipping fees may apply when service is requested outside the original country of purchase."
+  ],
+  "answer": "I don't know based on the provided documents.",
+  "samples": [
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "I don't know based on the provided documents.",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "t09",
+  "type": "trap",
+  "question": "What does a Nimbus Diagnostics reference code starting with BAT mean?",
+  "reference": "The knowledge base only defines codes starting with PPT (battery issue) and NDC (wireless connectivity issue); it does not define codes starting with BAT.",
+  "contexts": [
+   "# Nimbus Diagnostics Nimbus Diagnostics checks your device's hardware for problems, including the battery, display, speakers, microphones, cameras, sensors, and wireless connectivity. To run diagnostics on a Nimbus Phone X2, go to Settings > Privacy > Analytics > Nimbus Diagnostics, or a Nimbus Support agent can send a diagnostics request to your phone. On a Nimbus Laptop Air, shut down the laptop, then press and hold the power button until you see \"Loading startup options,\" and press Command-D. Diagnostics takes 2 to 5 minutes. When complete, you'll see a reference code; codes starting with \"PPT\" indicate a battery issue, and codes starting with \"NDC\" indicate a wireless connectivity issue. Share the reference code with Nimbus Support. Diagnostics does not collect personal data.",
+   "# Nimbus Limited Warranty Every new Nimbus device (Nimbus Phone X2, Nimbus Watch S, Nimbus Buds Pro, and Nimbus Laptop Air) includes a one-year limited warranty starting on the original date of purchase. The warranty covers manufacturing defects in materials and workmanship, including faulty buttons, dead pixels on the display, and batteries that fail to hold a charge due to a defect. The limited warranty does not cover accidental damage such as cracked screens, liquid damage, cosmetic scratches, or damage caused by third-party accessories. It also does not cover devices that have been opened or repaired by an unauthorized service provider. To make a warranty claim, customers need the device serial number and proof of purchase. Warranty repairs are free of charge. If a device cannot be repaired, Nimbus will replace it with a new or refurbished device of equivalent functionality. Replacement devices are covered for the remainder of the original warranty or 90 days, whichever is longer.",
+   "# Your Privacy During Repairs Nimbus technicians do not need access to your personal data to perform most repairs. When you send a device for service, you can turn on Repair Mode, which keeps your data encrypted and locked while still allowing the technician to run diagnostics. Repair Mode is available on Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later. If Repair Mode is not available, Nimbus recommends backing up and erasing your device before service. Nimbus never asks for your Nimbus Account password during a repair, and technicians are prohibited from viewing photos, messages, or other personal content. Diagnostic logs collected during service contain hardware information only and are deleted 90 days after the repair is complete. Repair records, including the device serial number and repair description, are kept for 3 years for warranty purposes."
+  ],
+  "answer": "I don't know based on the provided documents.",
+  "samples": [
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents.",
+   "I don't know based on the provided documents."
+  ],
+  "selfcheck_score": 0.0,
+  "selfcheck_sentences": [
+   [
+    "I don't know based on the provided documents.",
+    0.0
+   ]
+  ]
+ }
+]
