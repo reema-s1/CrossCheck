@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# environment / caches
+.venv/
+__pycache__/
+*.pyc
+
+# local notes, not part of the project
+jd.md
+rag-hallucination-eval-plan.md
+
+.DS_Store
