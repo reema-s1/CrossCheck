@@ -1,0 +1,146 @@
+[
+ {
+  "id": "q01",
+  "type": "normal",
+  "question": "How long is the standard warranty on a new Nimbus device?",
+  "reference": "Every new Nimbus device includes a one-year limited warranty starting on the original date of purchase."
+ },
+ {
+  "id": "q02",
+  "type": "normal",
+  "question": "How much does NimbusCare+ cost for the Nimbus Phone X2?",
+  "reference": "NimbusCare+ costs $149 for the Nimbus Phone X2."
+ },
+ {
+  "id": "q03",
+  "type": "normal",
+  "question": "What is the service fee for a cracked phone screen with NimbusCare+?",
+  "reference": "With NimbusCare+, the screen-only damage service fee for the Nimbus Phone X2 is $29."
+ },
+ {
+  "id": "q04",
+  "type": "normal",
+  "question": "How many days do I have to return a product bought from the Nimbus online store?",
+  "reference": "Products can be returned within 14 days of delivery; holiday purchases made between November 1 and December 25 can be returned until January 8."
+ },
+ {
+  "id": "q05",
+  "type": "normal",
+  "question": "How much is an out-of-warranty battery replacement for the Nimbus Phone X2?",
+  "reference": "An out-of-warranty battery replacement for the Nimbus Phone X2 costs $89."
+ },
+ {
+  "id": "q06",
+  "type": "normal",
+  "question": "Can I go swimming with the Nimbus Watch S?",
+  "reference": "Yes. The Nimbus Watch S is water resistant to 50 meters and can be used for shallow-water swimming, but not for scuba diving or high-velocity water sports."
+ },
+ {
+  "id": "q07",
+  "type": "normal",
+  "question": "How fast does the Nimbus Phone X2 charge?",
+  "reference": "The Nimbus Phone X2 supports 30 W wired fast charging via USB-C, reaching 50% in about 25 minutes, and 15 W wireless charging."
+ },
+ {
+  "id": "q08",
+  "type": "normal",
+  "question": "What is the battery life of Nimbus Buds Pro with noise cancellation on?",
+  "reference": "Each earbud gives up to 6 hours of listening time with ANC on, and the case provides up to 30 hours of total listening time."
+ },
+ {
+  "id": "q09",
+  "type": "normal",
+  "question": "Does the Nimbus Laptop Air have a fan?",
+  "reference": "No. The Nimbus Laptop Air has a fanless design and runs silently; under heavy sustained workloads the chip may reduce its speed to keep temperatures safe."
+ },
+ {
+  "id": "q10",
+  "type": "normal",
+  "question": "How much free cloud storage comes with a Nimbus Account?",
+  "reference": "Every Nimbus Account includes 5 GB of free cloud storage."
+ },
+ {
+  "id": "q11",
+  "type": "normal",
+  "question": "Does NimbusCare+ cover a stolen phone?",
+  "reference": "No. NimbusCare+ does not cover loss or theft."
+ },
+ {
+  "id": "q12",
+  "type": "normal",
+  "question": "What is Repair Mode and which devices support it?",
+  "reference": "Repair Mode keeps your data encrypted and locked while a technician runs diagnostics. It is available on the Nimbus Phone X2 and Nimbus Laptop Air running NimbusOS 5.2 or later."
+ },
+ {
+  "id": "q13",
+  "type": "normal",
+  "question": "What does a diagnostics reference code starting with PPT mean?",
+  "reference": "A reference code starting with PPT indicates a battery issue."
+ },
+ {
+  "id": "q14",
+  "type": "normal",
+  "question": "Can I get my Nimbus Phone X2 bought in Canada serviced in the United Kingdom?",
+  "reference": "No. The Nimbus Phone X2 warranty is country-specific; a phone bought in Canada can be serviced in Canada or the United States, but not the United Kingdom."
+ },
+ {
+  "id": "q15",
+  "type": "normal",
+  "question": "Can I trade in my Nimbus Buds Pro?",
+  "reference": "No. Nimbus Buds Pro are not eligible for trade-in credit, but they can be recycled for free."
+ },
+ {
+  "id": "t01",
+  "type": "trap",
+  "question": "Can the Nimbus Watch S measure my blood pressure, and how accurate is it?",
+  "reference": "No. The Nimbus Watch S does not measure blood pressure."
+ },
+ {
+  "id": "t02",
+  "type": "trap",
+  "question": "How much does it cost to replace the rear camera on a Nimbus Phone X2?",
+  "reference": "The knowledge base does not state the cost of a rear camera replacement."
+ },
+ {
+  "id": "t03",
+  "type": "trap",
+  "question": "What is the price of the Nimbus Phone X2 with 256 GB of storage?",
+  "reference": "The knowledge base lists 256 GB as a storage option but does not give the price of the phone."
+ },
+ {
+  "id": "t04",
+  "type": "trap",
+  "question": "How long does the Nimbus Laptop Air battery last when gaming?",
+  "reference": "The knowledge base only states up to 18 hours of video playback; it does not give a battery life for gaming."
+ },
+ {
+  "id": "t05",
+  "type": "trap",
+  "question": "Which chip does the Nimbus Watch S use?",
+  "reference": "The knowledge base does not say which chip the Nimbus Watch S uses."
+ },
+ {
+  "id": "t06",
+  "type": "trap",
+  "question": "How do I file a theft claim under NimbusCare+ and what is the deductible?",
+  "reference": "You cannot. NimbusCare+ does not cover loss or theft, so there is no theft claim or deductible."
+ },
+ {
+  "id": "t07",
+  "type": "trap",
+  "question": "How often should I clean the fan in my Nimbus Laptop Air?",
+  "reference": "The Nimbus Laptop Air has a fanless design, so there is no fan to clean."
+ },
+ {
+  "id": "t08",
+  "type": "trap",
+  "question": "How long does express shipping take to Japan?",
+  "reference": "The knowledge base does not list Japan as a shipping destination; Nimbus ships to the US, Canada, the UK, Ireland, Australia, and most EU countries."
+ },
+ {
+  "id": "t09",
+  "type": "trap",
+  "question": "What does a Nimbus Diagnostics reference code starting with BAT mean?",
+  "reference": "The knowledge base only defines codes starting with PPT (battery issue) and NDC (wireless connectivity issue); it does not define codes starting with BAT."
+ }
+]
